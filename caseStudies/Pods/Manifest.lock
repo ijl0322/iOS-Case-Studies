@@ -1,0 +1,12 @@
+PODS:
+  - StarWars (2.0)
+
+DEPENDENCIES:
+  - StarWars (~> 2.0)
+
+SPEC CHECKSUMS:
+  StarWars: 3c68dc5e9f1b6ca6d407b1d4218fd8a65c2eacfa
+
+PODFILE CHECKSUM: 96bc34b0f4aee99c698ecbb9ae5ac3009c55eb0c
+
+COCOAPODS: 1.2.1
